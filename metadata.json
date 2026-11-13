@@ -1,0 +1,6 @@
+{
+  "name": "SENA Sede Aguas Calientes - Internado Agropecuario",
+  "description": "Subsede del Centro de Atención al Sector Agropecuario (CASA, Piedecuesta - Guatiguara) en el Km 48 de la Vía al Mar (El Playón, Santander). Centro de convivencia e internado único en el oriente colombiano con 100% de aprendices internos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
